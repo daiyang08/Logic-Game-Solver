@@ -1,6 +1,6 @@
 Logic-Game-Solver
 =================
-This is the course project for Network Science Course. It is mainly to solve an interesting logic game: fill-a-pix, which can be found online (http://www.websudoku.com/?fill-a-pix).
+This is the course project for Formal Verification Course. It is mainly to solve an interesting logic game: fill-a-pix, which can be found online (http://www.websudoku.com/?fill-a-pix).
 For the basic version of the game, we need to fill some grids according to the clue number initiated at first.
 We modeled the game as a SAT(satisfiability) problem and tried to solve it using SAT solver.
 
